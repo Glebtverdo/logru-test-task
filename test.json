@@ -1,0 +1,20 @@
+[
+  {
+    "firstName": "bdc",
+    "lastName": "string3",
+    "age": "1",
+    "salary": "string" 
+  },
+  {
+    "firstName": "cbd",
+    "lastName": "string1",
+    "age": "10",
+    "salary": "string" 
+  },
+  {
+    "firstName": "abc",
+    "lastName": "string2",
+    "age": "16",
+    "salary": "string" 
+  }
+]
